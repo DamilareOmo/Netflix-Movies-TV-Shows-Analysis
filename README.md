@@ -62,7 +62,7 @@ Base R (≥ 4.0) — no additional packages required.
    - **Genres chart**: explodes multi-genre strings, counts each genre individually, plots top 10
    - **Ratings chart**: bar chart side-by-side using Seaborn/Matplotlib
    - **Type chart**: Movies vs TV Shows pie chart
-5. **R Integration** — Ratings distribution replicated with base R `barplot()`
+5. **R Integration** — Most watched genres replicated with base R `barplot()`
 
 ---
 
