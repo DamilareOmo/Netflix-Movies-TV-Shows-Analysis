@@ -10,7 +10,7 @@ This project analyzes Netflix's catalog of movies and TV shows using **Python** 
 |------|-------------|
 | `netflix_data.csv` | The initial raw data source file |
 | `netflix_data_analysis.ipynb` | Main Jupyter Notebook — data prep, cleaning, exploration, visualizations |
-| `netflix_data_analysis.R` | R chart: Ratings Distribution (base R graphics) |
+| `netflix_data_analysis.R` | R chart: Most watched genres (base R graphics) |
 | `most_watched_genres.png` | Top 10 most common genres (horizontal bar chart) |
 | `ratings_distribution.png` | Ratings distribution (bar chart) |
 | `content_type_distribution.png` | Movies vs TV Shows count |
