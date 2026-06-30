@@ -1,5 +1,4 @@
-# Netflix-Movies-TV-Shows-Analysis
-# Netflix Shows & Movies — Data Analysis
+# Netflix  Movies & TV Shows — Data Analysis
 
 ## Overview
 This project analyzes Netflix's catalog of movies and TV shows using **Python** (Seaborn, Matplotlib, Pandas) and **R** (base graphics).
