@@ -13,7 +13,7 @@ This contains a comprehensive analysis of Netflix's catalog of movies and TV sho
 | `netflix_data_analysis.R` | R chart: Most watched genres (base R graphics) |
 | `most_watched_genres.png` | Top 10 most common genres (horizontal bar chart) |
 | `ratings_distribution.png` | Ratings distribution (bar chart) |
-| `content_type_distribution.png` | Movies vs TV Shows count |
+| `content_type_distribution.png` | Movies vs TV Shows count (pie chart) |
 | `most_watched_genres_R.png` | Top 10 most common genres (horizontal bar chart) produced in R |
 | `Netflix_shows_movies_cleaned.csv` | Saved data after cleaning |
 | `README.md` | This file |
