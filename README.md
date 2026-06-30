@@ -56,7 +56,7 @@ Base R (≥ 4.0) — no additional packages required.
 ## Analysis Steps
 
 1. **Data Preparation** — Load CSV and rename to `Netflix_shows_movies`
-2. **Data Cleaning** — Fill missing categorical values with `"Unknown"`, impute `date_added` with mode, fill the 10 rows with missing `rating`
+2. **Data Cleaning** — Fill missing categorical values with `"Unknown"`, fill the 10 rows with missing `rating` as `Not Rated` 
 3. **Data Exploration** — Shape, `.describe()`, content type split, top ratings
 4. **Visualizations (Python)**
    - **Genres chart**: explodes multi-genre strings, counts each genre individually, plots top 10
