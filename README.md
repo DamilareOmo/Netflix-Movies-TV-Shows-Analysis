@@ -67,7 +67,13 @@ Base R (≥ 4.0) — no additional packages required.
 ---
 
 ## Key Findings
+
 - **6,234 titles** after cleaning (4,265 Movies / 1,969 TV Shows)
 - Most common rating: **TV-MA** (2,027 titles), followed by **TV-14** (1,698)
 - Top genres: **International Movies**, **Dramas**, **Comedies**, **Documentaries**
 - Content spans releases from **1925 to 2020**
+
+## Author
+
+Sodiq Omoniyi | Data Analyst | Milestone 4 - Netflix Data Visualization.
+
